@@ -52,7 +52,7 @@ pip install unityagents==0.4.0
 
       For example on 64-bit Windows:
       ```python
-      env = UnityEnvironment(file_name="./Banana_Windows_x86_64/Banana.exe")
+      env = UnityEnvironment(file_name='./Reacher_Windows_x86_64/Reacher.exe')
       ```
 
 4. Run the `NContinuous_Control.ipynb` notebook to either train the DDPG agent from scratch or use the already trained model weights in the files `checkpoint_actor.pth` and `checkpoint_critic.pth`.
