@@ -48,7 +48,7 @@ pip install unityagents==0.4.0
 
 4. Place the downloaded zip file in the root directory of this repository and unzip it.
 
-5. Path to the executable file has to be provided to `UnityEnvironment` function in `Navigation.ipynb` 
+5. Path to the executable file has to be provided to `UnityEnvironment` function in `NContinuous_Control.ipynb` 
 
       For example on 64-bit Windows:
       ```python
