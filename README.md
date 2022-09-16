@@ -29,14 +29,11 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 1. Prepare new Conda environment (with python 3.6) following guidelines on [Udacity DRL repo](https://github.com/udacity/deep-reinforcement-learning#dependencies) 
 
-
 2. Install the `unityagents` package with:
 
 ```sh
 pip install unityagents==0.4.0
 ```
-
-### Getting Started
 
 3. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
 
