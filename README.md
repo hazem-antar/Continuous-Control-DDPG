@@ -48,13 +48,13 @@ pip install unityagents==0.4.0
 
 4. Place the downloaded zip file in the root directory of this repository and unzip it.
 
-5. Path to the executable file has to be provided to `UnityEnvironment` function in `NContinuous_Control.ipynb` 
+5. Path to the executable file has to be provided to `UnityEnvironment` function in `Continuous_Control.ipynb` 
 
       For example on 64-bit Windows:
       ```python
       env = UnityEnvironment(file_name='./Reacher_Windows_x86_64/Reacher.exe')
       ```
 
-4. Run the `NContinuous_Control.ipynb` notebook to either train the DDPG agent from scratch or use the already trained model weights in the files `checkpoint_actor.pth` and `checkpoint_critic.pth`.
+4. Run the `Continuous_Control.ipynb` notebook to either train the DDPG agent from scratch or use the already trained model weights in the files `checkpoint_actor.pth` and `checkpoint_critic.pth`.
 
 5. Watch a smart agent playing!
