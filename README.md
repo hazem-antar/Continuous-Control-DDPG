@@ -4,9 +4,10 @@ Continuous Control project using a DDPG algorithm in Reinforcement Learning
 # Udacity Deep Reinforcement Learning Nanodegree
 ## Project 2 - Continuous-Control-DDPG
 
-This is the second project for the Udacity Deep Reinforcement Learning Nanodegree. The goal is to implement model based on [Deep Deterministic Policy Gradient (DDPG)](https://arxiv.org/abs/1509.02971)to allow controlling a group of robotic arms in a Unity ML-Agents environment. 
+This is the second project for the Udacity Deep Reinforcement Learning Nanodegree. The goal is to implement model based on [Deep Deterministic Policy Gradient (DDPG)](https://arxiv.org/abs/1509.02971) to control the movement of a group of robotic arms in a Unity ML-Agents environment. 
 
 ![Trained DQN Agent](./img/1_8-NXPwKsxg5QYfzaRqKeYg.gif)
+
 ## Environment description
 
 The simulation contains a single agent navigating in a large, square environment.
