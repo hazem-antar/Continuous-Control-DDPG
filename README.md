@@ -57,4 +57,4 @@ pip install unityagents==0.4.0
 
 4. Run the `NContinuous_Control.ipynb` notebook to either train the DDPG agent from scratch or use the already trained model weights in the files `checkpoint_actor.pth` and `checkpoint_critic.pth`.
 
-5. You can see how trained agent move in environment by running the last cell in the notebook.
+5. Watch a smart agent playing!
